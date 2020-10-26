@@ -1,0 +1,2 @@
+# Python-Practise-Problem-based-on-age-determination-Descison-making-Mathematical-Calculations-
+This is a Python program where you give your Birthday or Birth year as input (the system guesses if it's year or a day). The system then tells you the exact year when you will turn 100 years old and also gives you an option to print the age you will be having at a particular year. You can never understand the beauty of this system
